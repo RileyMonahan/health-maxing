@@ -7,6 +7,10 @@ Built with React Native + Expo (SDK 57), TypeScript and Expo Router.
 See [docs/PLAN.md](docs/PLAN.md) for the architecture, navigation, data models
 and development plan.
 
+## Preview on Windows
+
+Double-click `Start Preview.bat`. See [SETUP-WINDOWS.md](SETUP-WINDOWS.md) for the one-time setup.
+
 ## Run it
 
 ```bash
